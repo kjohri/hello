@@ -6,5 +6,5 @@
 
 main ()
 {
-    printf ("Hello world!\n");
+    printf ("Hello, the brave new World!\n");
 }
