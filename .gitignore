@@ -1,0 +1,19 @@
+# .gitignore
+
+# temporary files
+/autom4te.cache
+/tmp
+
+# object files
+*.o
+
+# generated files
+aclocal.m4
+config.h.in
+config.log
+config.status
+configure
+Makefile
+Makefile.in
+*.tar.gz
+hello
