@@ -27,4 +27,5 @@ int main (int argc, char **argv)
     printf ("All the best!\n");
     printf ("Good evening!\n");
     printf ("Good night!\n");
+    printf ("Take care! \n");
 }
