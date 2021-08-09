@@ -21,11 +21,5 @@
 
 int main (int argc, char **argv)
 {
-    printf ("Greetings!\n");
-    printf ("Good morning!\n");
     printf ("Hello, World!\n");
-    printf ("All the best!\n");
-    printf ("Good evening!\n");
-    printf ("Good night!\n");
-    printf ("Take care! \n");
 }
