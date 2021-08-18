@@ -21,7 +21,7 @@
 
 int main (int argc, char **argv)
 {
-    printf ("Good morning!");
+    printf ("Good morning!\n");
     printf ("Hello, World!\n");
     printf ("Bye\n");
 }
